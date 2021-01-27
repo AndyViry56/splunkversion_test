@@ -1,0 +1,8 @@
+[app/install/install_source_checksum]
+version = 8.1.1
+modtime = 1611700399.112858500
+
+[inputs/gitforsplunk%3A%2F%2FInternalInformation]
+owner = admin
+version = 8.1.1
+modtime = 1611700643.728508400
